@@ -1,0 +1,10 @@
+{
+  "name": "ApexPulse Fitness & Biometric Health Tracker",
+  "description": "Comprehensive workout tracker, calorie and macro logger, AI meal photo analyzer, wearable real-time heart rate monitor, biometric health insights, and community fitness forum.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
